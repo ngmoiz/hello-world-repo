@@ -1,4 +1,4 @@
-ci: Hello world
+name: Hello world
 on: push
 jobs:
   hello-jobs:
